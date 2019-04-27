@@ -1,5 +1,9 @@
 # individual_project_firstversion
 
+
+https://public.tableau.com/profile/qing.zhang#!/vizhome/ChicagoViolationinsight/Dashboard1
+
+
 ## First finding:
    I calculated the total Violations in each day of the week from 2014-2019. It seems like there were more Violations during 
    weekdays than weekends. Then on the second chart, I calculated the average Violation each day of the week on the same year 
