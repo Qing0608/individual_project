@@ -35,3 +35,6 @@ https://public.tableau.com/profile/qing.zhang#!/vizhome/ChicagoViolationinsight/
    do the third chart, again it followed the same pattern. Seems community area 30 had the highest amount of Violations in every
    year, it is a dangerous area, so as other peak points. So I would suggest the mayor to focus on those spots put more efforts 
    to explore the reason and hopefully come out solutions. It will siganificantly help to reduce the total Violations.
+   
+(I tried to merge with other data, for example 'Chicago Public Schools - Progress Report Cards' from the same web site, I merged them on ward(s), and tried to find out the connections between Violations and other contribution(safety icon/score, 
+graduation rate %, Environment icon, family involvement icon/score, patent engagement icon/score, etc, but sadly can't conclude any meaningful or interesting finding, so I just used this data, hope it is ok...)
