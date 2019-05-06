@@ -22,7 +22,7 @@ https://public.tableau.com/profile/qing.zhang#!/vizhome/ChicagoViolationinsight-
    period. The result is totally different. The average Violations is obviously higher in weekends than weekday. Same as the 
    third chart(conbine 2014-2019 in total). Which means, Violations in weekends is more concentrated in certain area, while it 
    is more spread in weekdays. Aware of the cameras were placed in Children's dangerous zone, it can be explained that during 
-   weekend, there are less car driving around school area, so the Violations decreased. As to the mayor, I may suggest to set 
+   weekend, there are less car driving around school area, so the Violations decreased. Use lines charts is because it makes the trends more clearly. As to the mayor, I may suggest to set 
    different speed limit between weekdays and weekends. Since there are not many students would go to school during weekends, 
    increase the speed limit is reasonable.
    
